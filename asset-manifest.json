@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Suchi_shop/static/css/main.5ce3b33d.css",
+    "main.js": "/Suchi_shop/static/js/main.1c76c3a3.js",
+    "static/media/sushi.jpg": "/Suchi_shop/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/Suchi_shop/index.html",
+    "main.5ce3b33d.css.map": "/Suchi_shop/static/css/main.5ce3b33d.css.map",
+    "main.1c76c3a3.js.map": "/Suchi_shop/static/js/main.1c76c3a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce3b33d.css",
+    "static/js/main.1c76c3a3.js"
+  ]
+}
